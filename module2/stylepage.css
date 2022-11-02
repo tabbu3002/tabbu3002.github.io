@@ -77,12 +77,12 @@
     }
 
     .content {
-        padding: 50px;
+        padding: 10px;
         border: none;
         background-color: gray;
         font-family: Helvetica;
         color: black;
-        margin: 5px ;
+        margin: 4px ;
         height: 200px;
         overflow: auto;
     }
