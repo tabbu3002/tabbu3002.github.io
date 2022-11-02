@@ -15,7 +15,7 @@
 
     section {
         position: relative;
-        padding: 20px;
+        padding: 10px;
         width: 95%;
     }
 
@@ -37,7 +37,7 @@
     .sub1 {
         color: black;
         float: right;
-        width: 100px;
+        width: 150px;
         padding: 5px;
         margin: -3px -3px 0px;
         border: 5px solid black;
@@ -51,7 +51,7 @@
     .sub2 {
         float: right;
         color: white;
-        width: 100px;
+        width: 150px;
         padding: 5px;
         margin: -3px -3px 0px;
         border: 5px solid black;
@@ -65,7 +65,7 @@
     .sub3 {
         color: black;
         float: right;
-        width: 100px;
+        width: 150px;
         padding: 5px;
          margin: -3px -3px 0px;
         border: 5px solid black;
@@ -77,7 +77,7 @@
     }
 
     .content {
-        padding: 75px;
+        padding: 50px;
         border: none;
         background-color: gray;
         font-family: Helvetica;
